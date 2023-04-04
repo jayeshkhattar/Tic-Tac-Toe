@@ -170,7 +170,9 @@ Game Screen
  
 
 ## CONCLUSION
-Every game menace plays four moves or fewer than four moves. The menace's likelihood of winning or drawing improves by 5 percent for every 50,000 games. The proportion of games that finish in a tie was 36 percent, whereas the number of games in which the menace wins increase dramatically as the number of trainings increases. This is because the menace becomes increasingly intelligent after many trainings, resulting in the player winning less.
+Based on the available information, we can conclude that the Menace algorithm is a promising approach for playing games with a limited number of moves. Menace's performance improves significantly with more training, as it becomes increasingly intelligent and more adept at winning games. Specifically, the Menace algorithm's likelihood of winning or drawing increases by 5 percent for every 50,000 games played. While a significant proportion of Menace's games end in a tie, the number of games that Menace wins increases dramatically as its training progresses. 
+
+Therefore, Menace's ability to learn and adapt to new challenges suggests that it could be an effective approach for game-playing tasks in a wide range of applications.
 
 ## REFERENCES
 <br>
