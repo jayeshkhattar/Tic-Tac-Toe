@@ -161,11 +161,11 @@ MinimaxTest.java
 
 Training Output 
 
-!(https://github.com/jayeshkhattar/Tic-Tac-Toe/blob/master/photos/Training.png)
+![alt](https://github.com/jayeshkhattar/Tic-Tac-Toe/blob/master/photos/Training.png)
 
 Game Screen 
 
-!(https://github.com/jayeshkhattar/Tic-Tac-Toe/blob/master/photos/instance%20of%20a%20game.png)
+![alt](https://github.com/jayeshkhattar/Tic-Tac-Toe/blob/master/photos/instance%20of%20a%20game.png)
 
  
 
